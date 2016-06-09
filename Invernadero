@@ -1,0 +1,4 @@
+TH:=13;
+LUZ:=10;
+AIRE:=14;
+SerialPrintln("La temperatura es ");
