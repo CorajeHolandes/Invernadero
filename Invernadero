@@ -4,3 +4,5 @@ AIRE:=14;
 SerialPrintln("La temperatura es ");
 SerialPrintln("el aire esta encendido ");
 SerialPrintln("LUZ esta encendida ");
+
+SerialBegin TH=44
