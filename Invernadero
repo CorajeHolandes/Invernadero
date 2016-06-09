@@ -2,3 +2,5 @@ TH:=13;
 LUZ:=10;
 AIRE:=14;
 SerialPrintln("La temperatura es ");
+SerialPrintln("el aire esta encendido ");
+SerialPrintln("LUZ esta encendida ");
