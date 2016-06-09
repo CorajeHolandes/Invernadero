@@ -6,3 +6,6 @@ SerialPrintln("el aire esta encendido ");
 SerialPrintln("LUZ esta encendida ");
 
 SerialBegin TH=44
+
+
+Probando a ver que onda.
